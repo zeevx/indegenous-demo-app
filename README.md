@@ -1,2 +1,3 @@
 # indegenous-demo-app
-Netlify Web Version
+
+Netlify Web Version for the demo app
